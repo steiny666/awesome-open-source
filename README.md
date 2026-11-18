@@ -2,23 +2,26 @@
 
 <blockquote align="center">A List of Awesome Open-Source Projects made by myself</blockquote>
 
-Android Apps
+### 📱 Android Apps
 
-F-Droid
-Essentials
-Overcast
-Seal
-Wiki Reader
-
-
-NAS & Docker
-
-Jellyfin
-Immich
-Home Assisant
+<!-- sort list:android-apps -->
+- [F-Droid] 
+- [Essentials]
+- [Overcast]
+- [Seal]
+- [Wiki Reader]
 
 
-Privacy
+### 🖥️ NAS & Docker
 
-Bitwarden
-Proton VPN
+<!-- sort list:nas-docker -->
+- [Jellyfin](https://github.com/jellyfin/jellyfin)- Your own personal media service.
+- [Immich]
+- [Home Assisant]
+
+
+### 🔒 Privacy
+
+<!-- sort list:privacy -->
+- [Bitwarden]
+- [Proton VPN]
