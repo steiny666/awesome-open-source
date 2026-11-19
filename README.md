@@ -29,5 +29,5 @@
 
 ## 🌐 Browsers
 <!-- sort list:browsers -->
-- [Zen]
-- [Firefox]
+- [Zen](https://github.com/zen-browser/desktop) - A firefox based browser with a super clean interface and good features. 
+- [Firefox](https://github.com/mozilla-firefox/firefox) - The best browser over 20 years old. Nothing much to say.
