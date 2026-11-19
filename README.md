@@ -25,3 +25,9 @@
 <!-- sort list:privacy -->
 - [Bitwarden](https://github.com/bitwarden) - Easy to use password manager. The best one you can get for free.
 - [Proton VPN](https://github.com/ProtonVPN) - Best free VPN out there.
+
+
+## 🌐 Browsers
+<!-- sort list:browsers -->
+- [Zen]
+- [Firefox]
